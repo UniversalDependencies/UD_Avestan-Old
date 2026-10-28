@@ -71,7 +71,7 @@
 15	manaŋhō.	manah-	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	Gloss=thought
 16	yā.	ya-	PRON	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Rel	17	obl	_	Gloss=which
 17	xšnəuuīšā.	xšnū-	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	14	acl:relcl	_	Gloss=seek-favour
-18	gə̄uš	gao-	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	obl	_	Gloss=cow|SpaceAfter=No
+18	gə̄uš	gao-	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	Gloss=cow|SpaceAfter=No
 19	cā.	-ca	CCONJ	_	_	18	cc	_	Gloss=and
 20	uruuānəm.	uruuan-	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	Gloss=soul
 
@@ -95,7 +95,7 @@
 14	cā.	-ca	CCONJ	_	_	13	cc	_	Gloss=and
 15	manaŋhō.	manah-	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	obl	_	Gloss=thought
 16	āiiaptā.	āiiapta-	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	Gloss=booty
-17	aṣ̌āt̰.	aṣ̌a-	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	16	obl	_	Gloss=truth
+17	aṣ̌āt̰.	aṣ̌a-	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	16	nmod	_	Gloss=truth
 18	hacā.	hacā	ADP	_	_	17	case	_	Gloss=from
 19	yāiš.	ya-	PRON	_	Case=Ins|Gender=Masc|Number=Plur|PronType=Rel	21	obl	_	Gloss=which
 20	rapaṇtō.	rap-	VERB	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	21	obj	_	Gloss=support
@@ -170,10 +170,10 @@
 8	vaēdəmnō.	vaēd-	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	4	amod	_	Gloss=find
 9	gātūm	gātu-	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	Gloss=road|SpaceAfter=No
 10	cā.	-ca	CCONJ	_	_	9	cc	_	Gloss=and
-11	ahurāi.	ahura-	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	Gloss=Lord
-12	səuuīštāi.	sūra-	ADJ	_	Case=Dat|Degree=Sup|Gender=Masc|Number=Sing	14	amod	_	Gloss=strong
+11	ahurāi.	ahura-	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	Gloss=Lord
+12	səuuīštāi.	sūra-	ADJ	_	Case=Dat|Degree=Sup|Gender=Masc|Number=Sing	11	amod	_	Gloss=strong
 13	səraōšəm.	səraōša-	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	Gloss=obedience
-14	mazdāi.	mazdā-	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	Gloss=Mazda
+14	mazdāi.	mazdā-	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	Gloss=Mazda
 
 # sent_id = GY28.5.1
 # text = anā. mąϑrā. mazištəm. vāurōimaidī. xrafstrā. hizuuā.
@@ -275,8 +275,8 @@
 1	anāiš.	ana-	PRON	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Dem	8	amod	_	Gloss=this
 2	vā̊.	yūš	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	9	obj	_	Gloss=you
 3	nōit̰.	nōit̰	ADV	_	_	9	advmod	_	Gloss=not
-4	ahurā.	ahura-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	appos	_	Gloss=Lord
-5	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	Gloss=Mazda
+4	ahurā.	ahura-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	Gloss=Lord
+5	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	appos	_	Gloss=Mazda
 6	aṣ̌əm	aṣ̌a-	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	conj	_	Gloss=order|SpaceAfter=No
 7	cā.	-ca	CCONJ	_	_	6	cc	_	Gloss=and
 8	yānāiš.	yāna-	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	9	obl	_	Gloss=request
@@ -303,12 +303,12 @@
 6	sauuaŋhąm.	sauuah-	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	Gloss=strength
 
 # sent_id = GY28.10.0
-# text = at̰. yə̄ṇg. aṣ̌ā.at̰cā. vōistā. vaŋhə̄ušcā. dāϑə̄ṇg. manaŋhō. ərəϑβə̄ṇg. mazdā. ahurā. aēibiiō. pərənā. āpanāiš. kāməm. 	
+# text = at̰. yə̄ṇg. aṣ̌ā.at̰cā. vōistā. vaŋhə̄ušcā. dāϑə̄ṇg. manaŋhō. ərəϑβə̄ṇg. mazdā. ahurā. aēibiiō. pərənā. āpanāiš. kāməm.
 # translation = Thus those you know to be righteous through order and in agreement with good thought, O Lord Mazda, may I fulfil for them their desire through attainments.
 # org_sent_id = GY28.10.0
 1	at̰.	at	PART	_	_	14	advmod	_	Gloss=thus
 2	yə̄ṇg.	ya-	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	5	obj	_	Gloss=which
-3	aṣ̌ā.at	aṣ̌a-	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	8	nmod	_	Gloss=order|SpaceAfter=No
+3	aṣ̌ā.at̰	aṣ̌a-	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	8	nmod	_	Gloss=order|SpaceAfter=No
 4	cā.	-ca	CCONJ	_	_	3	cc	_	Gloss=and
 5	vōistā.	vaēd-	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	Gloss=know
 6	vaŋhə̄uš	vahu-	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	9	amod	_	Gloss=good|SpaceAfter=No
@@ -324,12 +324,12 @@
 16	kāməm.	kāma-	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	Gloss=desire
 
 # sent_id = GY28.10.1
-# text = at̰. və̄. xšmaibiiā. asūnā. vaēdā. xᵛarāiϑiiā. vaiṇtiiā. srauuā̊.	
+# text = at̰. və̄. xšmaibiiā. asūnā. vaēdā. xᵛarāiϑiiā. vaiṇtiiā. srauuā̊.
 # translation = And indeed, for you, I know, bounteous, well-intentioned, devoted praises.
 # org_sent_id = GY28.10.1
 1	at̰.	at	PART	_	_	5	advmod	_	Gloss=thus
-2	və̄.	yūš	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	appos	_	Gloss=you
-3	xšmaibiiā.	yūš	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	obl	_	Gloss=you
+2	və̄.	yūš	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	iobj	_	Gloss=you
+3	xšmaibiiā.	yūš	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	appos	_	Gloss=you
 4	asūnā.	asūna-	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	8	amod	_	Gloss=full-of-vitalizing-power
 5	vaēdā.	vaēd-	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=know
 6	xᵛarāiϑiiā.	xᵛarāiϑiia-	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	8	amod	_	Gloss=having-chariot-horses
@@ -348,13 +348,13 @@
 6	cā.	-ca	CCONJ	_	_	5	cc	_	Gloss=and
 7	vohū.	vahu-	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	5	amod	_	Gloss=good
 8	yauuaētāitē.	yauuaētāt-	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	Gloss=eternity
-9	tuuə̄m.	tū	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you
+9	tuuə̄m.	tū	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	Gloss=you
 10	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	14	vocative	_	Gloss=Mazda
 11	ahurā.	ahura-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	10	appos	_	Gloss=Lord
 12	frō.	frō	PART	_	_	14	advmod	_	Gloss=?
 13	mā.	azə̄m	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	iobj	_	Gloss=I
 14	sīšā.	sāh-	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=instruct
-15	ϑβaɱāt̰.	ϑβa	PRON	_	Case=Abs|Gender=Man|Number=Sing|Person=2|PronType=Poss	4	obj	_	Gloss=your
+15	ϑβaɱāt̰.	ϑβa	PRON	_	Case=Abs|Gender=Man|Number=Sing|Person=2|PronType=Poss	4	obl	_	Gloss=your
 16	vaōcaŋhē.	mrao-	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	14	obj	_	Gloss=say
 17	maińiiə̄uš.	maniiu-	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	14	obl	_	Gloss=spirit
 18	hacā.	hacā	ADP	_	_	17	case	_	Gloss=from
@@ -367,11 +367,10 @@
 25	bauuat̰.	bao-	VERB	_	Aspect=Imp|Mood=Jus|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	ccomp	_	Gloss=become
 
 # sent_id = GY28.12
-# text = ahiiāsąm. hāitīm. yazamaide.  	
+# text = ahiiāsąm. hāitīm. yazamaide.
 # translation = We worship the chapter of these.
 # org_sent_id = GY28.12
 1	ahiiāsąm.	a-	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	2	nmod	_	Gloss=this
 2	hāitīm.	hāiti-	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Gloss=chapter
 3	yazamaide.	yaz-	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=worship
-
 
