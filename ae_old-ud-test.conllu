@@ -35,7 +35,7 @@
 4	ustānazastō.	ustāna.zasta-	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	Gloss=with-raised-hands
 5	rafəδrahiiā.	rafəδra-	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	Gloss=support
 6	maińiiə̄uš.	maniiu-	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Gloss=spirit
-7	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Gloss=Mazda
+7	mazdā.	mazdā-	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Gloss=Mazda
 8	pōuruuīm.	pouru-	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	advmod	_	Gloss=many
 9	spəṇtahiiā.	spəṇta-	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	Gloss=life-giving
 10	aṣ̌ā.	aṣ̌a-	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	Gloss=order
@@ -60,7 +60,7 @@
 4	ustānazastō.	ustāna.zasta-	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	Gloss=with-raised-hands
 5	rafəδrahiiā.	rafəδra-	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	Gloss=support
 6	maińiiə̄uš.	maniiu-	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Gloss=spirit
-7	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Gloss=Mazda
+7	mazdā.	mazdā-	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Gloss=Mazda
 8	pōuruuīm.	pouru-	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	advmod	_	Gloss=many
 9	spəṇtahiiā.	spəṇta-	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	Gloss=life-giving
 10	aṣ̌ā.	aṣ̌a-	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	Gloss=order
@@ -81,7 +81,7 @@
 # org_sent_id = GY28.2
 1	yə̄.	ya-	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Gloss=who
 2	vā̊.	yūš	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	5	obj	_	Gloss=you
-3	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=Mazda
+3	mazdā.	mazdā-	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=Mazda
 4	ahurā.	ahura-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	3	appos	_	Gloss=Lord
 5	pairī.jasāi.	pairī.gam-	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	9	csubj	_	Gloss=approach
 6	vohū.	vahu-	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	7	amod	_	Gloss=good
@@ -114,7 +114,7 @@
 6	cā.	-ca	CCONJ	_	_	5	cc	_	Gloss=and
 7	vohū.	vahu-	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	5	amod	_	Gloss=good
 8	apaōuruuīm.	apaouruuiia-	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	5	amod	_	Gloss=unprecedented
-9	mazdąm	mazdā-	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	Gloss=Mazda|SpaceAfter=No
+9	mazdąm	mazdā-	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	Gloss=Mazda|SpaceAfter=No
 10	cā.	-ca	CCONJ	_	_	9	cc	_	Gloss=and
 11	ahurəm.	ahura-	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	appos	_	Gloss=Lord
 12	yaēibiiō.	ya-	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	16	iobj	_	Gloss=which
@@ -145,7 +145,7 @@
 10	cā.	-ca	CCONJ	_	_	9	cc	_	Gloss=and
 11	š́iiaōϑananąm.	š́iiaōϑana-	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	Gloss=action
 12	vīduš.	vīdu(š)-	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	Gloss=knowing
-13	mazdā̊.	mazdā-	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Gloss=Mazda
+13	mazdā̊.	mazdā-	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Gloss=Mazda
 14	ahurahiiā.	ahura-	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	appos	_	Gloss=Lord
 15	yauuat̰.	yauuat̰	SCONJ	_	_	16	mark	_	Gloss=as-long-as
 16	isāi.	aēs-	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	Gloss=control
@@ -173,7 +173,7 @@
 11	ahurāi.	ahura-	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	Gloss=Lord
 12	səuuīštāi.	sūra-	ADJ	_	Case=Dat|Degree=Sup|Gender=Masc|Number=Sing	11	amod	_	Gloss=strong
 13	səraōšəm.	səraōša-	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	Gloss=obedience
-14	mazdāi.	mazdā-	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	Gloss=Mazda
+14	mazdāi.	mazdā-	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	Gloss=Mazda
 
 # sent_id = GY28.5.1
 # text = anā. mąϑrā. mazištəm. vāurōimaidī. xrafstrā. hizuuā.
@@ -200,7 +200,7 @@
 8	ərəšuuāiš.	ərəšuua-	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	10	amod	_	Gloss=capacious
 9	tū.	tū	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you
 10	uxδāiš.	uxδa-	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	Gloss=utterance
-11	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	Gloss=Mazda
+11	mazdā.	mazdā-	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	Gloss=Mazda
 12	zaraϑuštrāi.	zaraϑuštra-	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	Gloss=Zarathustra
 13	aōjōnghuuat̰.	aojōŋhuuaṇt-	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	14	amod	_	Gloss=strong
 14	rafənō.	rafənah-	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	Gloss=support
@@ -232,7 +232,7 @@
 14	cā.	-ca	CCONJ	_	_	13	cc	_	Gloss=and
 15	dā̊s	dā-	VERB	_	Aspect=Perf|Mood=Jus|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=give|SpaceAfter=No
 16	tū.	tū	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	Gloss=you
-17	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	15	vocative	_	Gloss=Mazda
+17	mazdā.	mazdā-	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	15	vocative	_	Gloss=Mazda
 18	xšaiiā	xšā-	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-have-command|SpaceAfter=No
 19	cā.	-ca	CCONJ	_	_	17	cc	_	Gloss=and
 20	yā.	ya-	PRON	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Rel	23	obl	_	Gloss=which
@@ -276,7 +276,7 @@
 2	vā̊.	yūš	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	9	obj	_	Gloss=you
 3	nōit̰.	nōit̰	ADV	_	_	9	advmod	_	Gloss=not
 4	ahurā.	ahura-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	Gloss=Lord
-5	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	appos	_	Gloss=Mazda
+5	mazdā.	mazdā-	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	4	appos	_	Gloss=Mazda
 6	aṣ̌əm	aṣ̌a-	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	conj	_	Gloss=order|SpaceAfter=No
 7	cā.	-ca	CCONJ	_	_	6	cc	_	Gloss=and
 8	yānāiš.	yāna-	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	9	obl	_	Gloss=request
@@ -316,7 +316,7 @@
 8	dāϑə̄ṇg.	dāθa-	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	2	amod	_	Gloss=according-to-the-established-rules
 9	manaŋhō.	manah-	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	Gloss=thought
 10	ərəϑβə̄ṇg.	ərəθβa-	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	2	amod	_	Gloss=being-in-agreement-with-the-models
-11	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	14	vocative	_	Gloss=Mazda
+11	mazdā.	mazdā-	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	14	vocative	_	Gloss=Mazda
 12	ahurā.	ahura-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	11	appos	_	Gloss=Lord
 13	aēibiiō.	a-	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	14	iobj	_	Gloss=this
 14	pərənā.	par-	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=fill
@@ -349,7 +349,7 @@
 7	vohū.	vahu-	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	5	amod	_	Gloss=good
 8	yauuaētāitē.	yauuaētāt-	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	Gloss=eternity
 9	tuuə̄m.	tū	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	Gloss=you
-10	mazdā.	mazdā-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	14	vocative	_	Gloss=Mazda
+10	mazdā.	mazdā-	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	14	vocative	_	Gloss=Mazda
 11	ahurā.	ahura-	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	10	appos	_	Gloss=Lord
 12	frō.	frō	PART	_	_	14	advmod	_	Gloss=?
 13	mā.	azə̄m	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	iobj	_	Gloss=I
