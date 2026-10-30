@@ -406,13 +406,13 @@
 1	ā.	ā	ADV	_	_	7	advmod	_	Gloss=here
 2	mā.	azəm	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	Gloss=I
 3	aēšəmō.	aēšəma-	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=wrath
-4	hazas	hazah-	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	Gloss=violent-force
+4	hazas	hazah-	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	Gloss=violent-force|SpaceAfter=No
 5	cā.	-ca	CCONJ	_	_	4	cc	_	Gloss=and
 6	rəmō.	rəma-	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Gloss=obstruction
 7	āhišāiiā.	ā.haē-	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=tie-up
-8	dərəš	dərəš	ADV	_	_	3	conj	_	Gloss=firmly
+8	dərəš	dərəš	ADV	_	_	3	conj	_	Gloss=firmly|SpaceAfter=No
 9	cā.	-ca	CCONJ	_	_	8	cc	_	Gloss=and
-10	təuuiš	təuuiš-	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	Gloss=overwhelming-force
+10	təuuiš	təuuiš-	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	Gloss=overwhelming-force|SpaceAfter=No
 11	cā.	-ca	CCONJ	_	_	10	cc	_	Gloss=and
 
 # sent_id = GY29.1.4
@@ -422,7 +422,7 @@
 1	nōit̰.	nōit̰	ADV	_	_	3	amod	_	Gloss=not
 2	mōi.	azəm	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	Gloss=I
 3	vāstā.	vāstar-	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=herdsman
-4	xšmat̰.	yūš	PRON	_	Case=Abl|Number=Plur|Person=2|PronType=Prs	4	nmod	_	Gloss=you
+4	xšmat̰.	yūš	PRON	_	Case=Abl|Number=Plur|Person=2|PronType=Prs	5	nmod	_	Gloss=you
 5	ańiiō.	aniia-	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Gloss=other
 
 # sent_id = GY29.1.5
