@@ -122,7 +122,7 @@
 14	cā.	-ca	CCONJ	_	_	13	cc	_	Gloss=and
 15	aγžaōnuuamnəm.	aγžaōnuuamna-	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	Gloss=undiminishing
 16	varədaitī.	vard-	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	Gloss=make-grow
-17	ārmaitiš.	ārmaiti-	NOUN	_	Case=Nom|Gender=Femn|Number=Sing	16	nsubj	_	Gloss=Armaiti
+17	ārmaitiš.	ārmaiti-	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	Gloss=Armaiti
 18	ā.	ā	ADV	_	_	22	advmod	_	Gloss=here
 19	mōi.	azəm	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	22	obl	_	Gloss=I
 20	rafəδrāi.	rafəδra-	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	22	obl	_	Gloss=support
@@ -141,7 +141,7 @@
 6	dadē.	dā-	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=give
 7	haϑrā.	haϑrā	ADV	_	_	6	advmod	_	Gloss=together
 8	manaŋhā.	manah-	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	obl	_	Gloss=thought
-9	aṣ̌īš	aṣ̌i-	NOUN	_	Case=Acc|Gender=Femn|Number=Plur	2	conj	_	Gloss=reward|SpaceAfter=No
+9	aṣ̌īš	aṣ̌i-	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	conj	_	Gloss=reward|SpaceAfter=No
 10	cā.	-ca	CCONJ	_	_	9	cc	_	Gloss=and
 11	š́iiaōϑananąm.	š́iiaōϑana-	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	Gloss=action
 12	vīduš.	vīdu(š)-	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	Gloss=knowing
@@ -354,11 +354,11 @@
 12	frō.	frō	PART	_	_	14	advmod	_	Gloss=?
 13	mā.	azə̄m	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	iobj	_	Gloss=I
 14	sīšā.	sāh-	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=instruct
-15	ϑβaɱāt̰.	ϑβa	PRON	_	Case=Abs|Gender=Man|Number=Sing|Person=2|PronType=Poss	4	obl	_	Gloss=your
+15	ϑβaɱāt̰.	ϑβa	PRON	_	Case=Abl|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	obl	_	Gloss=your
 16	vaōcaŋhē.	mrao-	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	14	obj	_	Gloss=say
-17	maińiiə̄uš.	maniiu-	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	14	obl	_	Gloss=spirit
+17	maińiiə̄uš.	maniiu-	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	Gloss=spirit
 18	hacā.	hacā	ADP	_	_	17	case	_	Gloss=from
-19	ϑβā.	ϑβa	PRON	_	Case=Ins|Gender=Neut|Number=Sing|Person=2|PronType=Poss	4	amod	_	Gloss=your
+19	ϑβā.	ϑβa	PRON	_	Case=Ins|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	amod	_	Gloss=your
 20	ə̄əā̊ŋhā.	āh-	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	14	obl	_	Gloss=mouth
 21	yāiš.	ya-	PRON	_	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	25	obl	_	Gloss=which
 22	ā.	ā	PART	_	_	25	advmod	_	Gloss=present
