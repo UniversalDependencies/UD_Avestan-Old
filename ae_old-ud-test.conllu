@@ -374,3 +374,65 @@
 2	hāitīm.	hāiti-	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Gloss=chapter
 3	yazamaide.	yaz-	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=worship
 
+# sent_id = GY29.1.0
+# text = xšmaibiiā. gə̄uš. uruuā. gərəždā.
+# translation = The soul of the cow complained to you. 
+# org_sent_id = GY29.1.0
+1	xšmaibiiā.	yūš	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	rel	_	Gloss=you
+2	gə̄uš.	gao-	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Gloss=cow
+3	uruuā.	uruuan-	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=soul
+4	gərəždā.	garz-	VERB	_	Aspect=Imp|Mood=Jus|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=complain
+
+# sent_id = GY29.1.1
+# text = kaɱāi. mā. ϑβarōždūm.
+# translation = For whom did you create me? 
+# org_sent_id = GY29.1.1
+1	kaɱāi.	ka-	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Int	3	iobj	_	Gloss=who
+2	mā.	azəm	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=I
+3	ϑβarōždūm.	ϑβars-	VERB	_	Aspect=Perf|Mood=Jus|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=carve
+
+# sent_id = GY29.1.2
+# text = kə̄. mā. tašat̰.
+# translation = Who fashioned me? 
+# org_sent_id = GY29.1.2
+1	kə̄.	ka-	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	nsubj	_	Gloss=who
+2	mā.	azəm	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=I
+3	tašat̰.	taš-	VERB	_	Aspect=Perf|Mood=Jus|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=fashion
+
+# sent_id = GY29.1.3
+# text = kə̄. mā. tašat̰. ā. mā. aēšəmō. hazascā. rəmō. āhišāiiā. dərəšcā. təuuišcā.
+# translation = Wrath, violent force, obstruction and overwhelming force have tied me up firmly
+# org_sent_id = GY29.1.3
+1	ā.	ā	ADV	_	_	7	advmod	_	Gloss=here
+2	mā.	azəm	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	Gloss=I
+3	aēšəmō.	aēšəma-	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=wrath
+4	hazas	hazah-	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	Gloss=violent-force
+5	cā.	-ca	CCONJ	_	_	4	cc	_	Gloss=and
+6	rəmō.	rəma-	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Gloss=obstruction
+7	āhišāiiā.	ā.haē-	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=tie-up
+8	dərəš	dərəš	ADV	_	_	3	conj	_	Gloss=firmly
+9	cā.	-ca	CCONJ	_	_	8	cc	_	Gloss=and
+10	təuuiš	təuuiš-	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	Gloss=overwhelming-force
+11	cā.	-ca	CCONJ	_	_	10	cc	_	Gloss=and
+
+# sent_id = GY29.1.4
+# text = nōit̰. mōi. vāstā. xšmat̰. ańiiō.
+# translation = There is no other herdsman for me than you.
+# org_sent_id = GY29.1.4
+1	nōit̰.	nōit̰	ADV	_	_	3	amod	_	Gloss=not
+2	mōi.	azəm	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	num	rel	_	Gloss=I
+3	vāstā.	vāstar-	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=herdsman
+4	xšmat̰.	yūš	PRON	_	Case=Abl|Number=Plur|Person=2|PronType=Prs	4	nmod	_	Gloss=you
+5	ańiiō.	aniia-	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Gloss=other
+
+# sent_id = GY29.1.5
+# text = aϑā. mōi. sąstā. vohū. vāstriiā.
+# translation = Therefore, may you show me good pastures.
+# org_sent_id = GY29.1.5
+1	aϑā.	aϑā	ADV	_	_	3	advmod	_	Gloss=thus
+2	mōi.	azəm	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	Gloss=I
+3	sąstā.	sand-	VERB	_	Aspect=Perf|Mood=Jus|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=appear
+4	vohū.	vahu-	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	5	amod	_	Gloss=good
+5	vāstriiā.	vāstriia-	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	3	obj	_	Gloss=pasture
+
+
