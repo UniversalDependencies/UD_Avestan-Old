@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>24</sentences><tokens>317</tokens><words>317</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>24</sentences><tokens>317</tokens><words>317</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="139" /><!-- -ca, ya-, vahu-, manah-, aṣ̌a-, mazdā-, yūš, ahura-, azəm, dā-, tū, a-, uruuan-, yāna-, š́iiaōϑana- -->
+  <forms unique="201" /><!-- cā., mazdā., aṣ̌ā., vohū., manaŋhō., ahurā., manas, mā., vaŋhə̄uš., və̄., yā., yə̄., dāidī., maińiiə̄uš., manaŋhā. -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="10">
+    <tag name="ADJ">50</tag><!-- vahu-, spəṇta-, vīspa-, pouru-, ustāna.zasta-, aməṣ̌a-, aniia-, aojōŋhuuaṇt-, apaouruuiia-, astuuaṇt- -->
+    <tag name="ADP">2</tag><!-- hacā -->
+    <tag name="ADV">8</tag><!-- nōit̰, ā, aϑā, dərəš, fərā, haϑrā -->
+    <tag name="CCONJ">25</tag><!-- -ca -->
+    <tag name="NOUN">111</tag><!-- manah-, aṣ̌a-, ahura-, uruuan-, yāna-, š́iiaōϑana-, gao-, maniiu-, nəmah-, rafəδra- -->
+    <tag name="PART">4</tag><!-- at, frō, ā -->
+    <tag name="PRON">60</tag><!-- ya-, yūš, azəm, tū, a-, azə̄m, ka-, ana-, ϑβa, i- -->
+    <tag name="PROPN">12</tag><!-- mazdā-, zaraϑuštra- -->
+    <tag name="SCONJ">1</tag><!-- yauuat̰ -->
+    <tag name="VERB">44</tag><!-- dā-, vaēd-, yā-, gam-, xšnū-, aēs-, bao-, garz-, grab-, kas- -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="37">
+    <feat name="Aspect" value="Imp" upos="VERB">25</feat><!-- yāsā., bauuat̰., dadē., daidīt̰., dāuuōi., gərəždā., gə̄uruuāin., isāi., jasatā., nipā̊ŋhē. -->
+    <feat name="Aspect" value="Perf" upos="VERB">19</feat><!-- dāidī., xšnəuuīšā., darəsānī., dā̊s, gaidī., rā̊ŋhaŋhōi., srəuuīmā., sąstā., sīšā., tašat̰. -->
+    <feat name="Case" value="Abl" upos="NOUN,PRON">5</feat><!-- aṣ̌ā.at̰, aṣ̌āt̰., maińiiə̄uš., xšmat̰., ϑβaɱāt̰. -->
+    <feat name="Case" value="Acc" upos="ADJ,NOUN,PRON,PROPN,VERB">73</feat><!-- manas, mā., uruuānəm., vā̊., yānīm., ahurəm., pōuruuīm., vahištəm., vīspə̄ṇg., xratūm. -->
+    <feat name="Case" value="Dat" upos="ADJ,NOUN,PRON,PROPN">29</feat><!-- və̄., mōi., maibiiā, xšmaibiiā., ahurāi., aēibiiō., aɱaibiiā, fərašaōštrāi., gairē., kaɱāi. -->
+    <feat name="Case" value="Gen" upos="ADJ,NOUN,PRON,PROPN">33</feat><!-- manaŋhō., vaŋhə̄uš., ahiiā., gə̄uš, maińiiə̄uš., rafəδrahiiā., spəṇtahiiā., ahiiāsąm., ahurahiiā., ahuuā̊. -->
+    <feat name="Case" value="Ins" upos="ADJ,NOUN,PRON">36</feat><!-- aṣ̌ā., vohū., yā., manaŋhā., mąϑrā., nəmaŋhā., yāiš., anā., anāiš., hizuuā. -->
+    <feat name="Case" value="Loc" upos="NOUN,PRON">4</feat><!-- aēšē., dasəmē., mə̄ṇ., xᵛāϑrē. -->
+    <feat name="Case" value="Nom" upos="ADJ,NOUN,PRON,VERB">37</feat><!-- yə̄., tū., ustānazastō., aməṣ̌ā., astuuatas, aēšəmō., ańiiō., aŋhuš., hazas, hiiat̰ -->
+    <feat name="Case" value="Voc" upos="ADJ,NOUN,PROPN">18</feat><!-- mazdā., ahurā., aṣ̌aōnīš., gāϑā̊., vahištā., xrafstrā., ārmaitē. -->
+    <feat name="Degree" value="Sup" upos="ADJ">7</feat><!-- vahištā., vahištəm., mazištəm., səuuīštāi., zəuuīštiiā̊ŋhō. -->
+    <feat name="Gender" value="Fem" upos="ADJ,NOUN,PRON">15</feat><!-- yā., gāϑā̊., aṣ̌aōnīš., aṣ̌īm., aṣ̌īš, gə̄uš., hāitīm., tąm., yauuaētāitē., ārmaitiš. -->
+    <feat name="Gender" value="Masc" upos="ADJ,NOUN,PRON,PROPN,VERB">93</feat><!-- mazdā., ahurā., yə̄., maińiiə̄uš., uruuānəm., ahurəm., gə̄uš, mąϑrā., spəṇtahiiā., ustānazastō. -->
+    <feat name="Gender" value="Neut" upos="ADJ,NOUN,PRON">98</feat><!-- aṣ̌ā., manaŋhō., vohū., manas, vaŋhə̄uš., manaŋhā., yānīm., ahiiā., nəmaŋhā., pōuruuīm. -->
+    <feat name="Mood" value="Imp" upos="VERB">7</feat><!-- dāidī., gaidī., jasatā., sīšā., xšaiiā -->
+    <feat name="Mood" value="Ind" upos="VERB">10</feat><!-- yāsā., dadē., nipā̊ŋhē., vaēdā., vōistā., yazamaide., yōiϑəmā., āhišāiiā. -->
+    <feat name="Mood" value="Jus" upos="VERB">6</feat><!-- bauuat̰., dā̊s, gərəždā., sąstā., tašat̰., ϑβarōždūm. -->
+    <feat name="Mood" value="Opt" upos="VERB">6</feat><!-- xšnəuuīšā., daidīt̰., srəuuīmā., vāurōimaidī., zaranaēmā. -->
+    <feat name="Mood" value="Sub" upos="VERB">11</feat><!-- darəsānī., gə̄uruuāin., isāi., pairī.jasāi., pərənā., rā̊ŋhaŋhōi., tauruuaiiāmā., tauuā, ufiiānī., varədaitī. -->
+    <feat name="Number" value="Dual" upos="NOUN">1</feat><!-- ahuuā̊. -->
+    <feat name="Number" value="Plur" upos="ADJ,NOUN,PRON,VERB">66</feat><!-- və̄., vā̊., gāϑā̊., vīspə̄ṇg., xšmaibiiā., yāiš., āiiaptā., š́iiaōϑanā., ahiiāsąm., aməṣ̌ā. -->
+    <feat name="Number" value="Sing" upos="ADJ,NOUN,PRON,PROPN,VERB">208</feat><!-- mazdā., aṣ̌ā., vohū., manaŋhō., ahurā., manas, mā., vaŋhə̄uš., yə̄., dāidī. -->
+    <feat name="Person" value="1" upos="PRON,VERB">30</feat><!-- mā., mōi., yāsā., maibiiā, aɱaibiiā, dadē., darəsānī., isāi., maibiiō., mə̄ṇ. -->
+    <feat name="Person" value="2" upos="PRON,VERB">34</feat><!-- və̄., dāidī., tū., vā̊., ϑβā., xšmaibiiā., xšnəuuīšā., dā̊s, gaidī., jasatā. -->
+    <feat name="Person" value="3" upos="PRON,VERB">8</feat><!-- bauuat̰., daidīt̰., gərəždā., gə̄uruuāin., tašat̰., varədaitī., āhišāiiā., īt̰. -->
+    <feat name="Poss" value="Yes" upos="PRON">2</feat><!-- ϑβaɱāt̰., ϑβā. -->
+    <feat name="PronType" value="Dem" upos="PRON">9</feat><!-- ahiiā., ahiiāsąm., anā., anāiš., aēibiiō., tąm., yāiš., āiš. -->
+    <feat name="PronType" value="Int" upos="PRON">3</feat><!-- kat̰., kaɱāi., kə̄. -->
+    <feat name="PronType" value="Prs" upos="PRON">32</feat><!-- mā., və̄., mōi., tū., vā̊., ϑβā., maibiiā, xšmaibiiā., aɱaibiiā, maibiiō. -->
+    <feat name="PronType" value="Rel" upos="PRON">16</feat><!-- yā., yə̄., hiiat̰, hiiat̰., yaēibiias, yaēibiiō., yāiš., yōi., yə̄m., yə̄ṇg. -->
+    <feat name="Tense" value="Past" upos="VERB">17</feat><!-- dāidī., xšnəuuīšā., darəsānī., dā̊s, gaidī., rā̊ŋhaŋhōi., srəuuīmā., sąstā., sīšā., tašat̰. -->
+    <feat name="Tense" value="Pres" upos="VERB">27</feat><!-- yāsā., bauuat̰., dadē., daidīt̰., dāuuōi., gərəždā., gə̄uruuāin., isāi., jasatā., nipā̊ŋhē. -->
+    <feat name="VerbForm" value="Fin" upos="VERB">40</feat><!-- dāidī., yāsā., xšnəuuīšā., bauuat̰., dadē., daidīt̰., darəsānī., dā̊s, gaidī., gərəždā. -->
+    <feat name="VerbForm" value="Inf" upos="VERB">2</feat><!-- dāuuōi., vaōcaŋhē. -->
+    <feat name="VerbForm" value="Part" upos="VERB">2</feat><!-- rapaṇtō., vaēdəmnō. -->
+    <feat name="Voice" value="Act" upos="VERB">34</feat><!-- dāidī., yāsā., bauuat̰., daidīt̰., darəsānī., dāuuōi., dā̊s, gaidī., gə̄uruuāin., isāi. -->
+    <feat name="Voice" value="Mid" upos="VERB">10</feat><!-- xšnəuuīšā., dadē., gərəždā., nipā̊ŋhē., pairī.jasāi., rā̊ŋhaŋhōi., vaēdəmnō., vāurōimaidī., ϑβarōždūm. -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="18">
+    <dep name="acl:relcl">3</dep>
+    <dep name="advmod">12</dep>
+    <dep name="amod">49</dep>
+    <dep name="appos">11</dep>
+    <dep name="case">2</dep>
+    <dep name="cc">25</dep>
+    <dep name="ccomp">10</dep>
+    <dep name="conj">32</dep>
+    <dep name="csubj">2</dep>
+    <dep name="iobj">14</dep>
+    <dep name="mark">1</dep>
+    <dep name="nmod">27</dep>
+    <dep name="nsubj">17</dep>
+    <dep name="obj">32</dep>
+    <dep name="obl">44</dep>
+    <dep name="root">24</dep>
+    <dep name="vocative">11</dep>
+    <dep name="xcomp">1</dep>
+  </deps>
+</treebank>
